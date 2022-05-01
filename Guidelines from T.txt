@@ -11,3 +11,5 @@ Verbal:
 Vocab:
 1.magoosh 1000 words
 2.barrons 333 high frequency words
+
+No need to learn Magoosh Advance words
